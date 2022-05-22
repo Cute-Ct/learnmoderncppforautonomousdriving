@@ -18,6 +18,17 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 ## Getting Started
 
+****
+
+* C++ language extensions (C++11, C++14, C++17), nullptr, auto, scoped enumerations, compile-time assertions, string literals
+* C++ better class design: override, final, implicitly-declared operations, =delete, =default, delegating constructors, explicit, user-defined literals (UDL)
+* Move semantics: move constructor, move assignment, the rule of five, rvalue references, perfect forwarding, forwarding references
+* Lambdas: function objects, lambda expressions, variable capturing, generic lambdas, return type deduction, usage with STL algorithms
+* Multithreading: threads, passing parameters to threads, thread joining, mutexes, locking, condition variables, semaphores
+* Templates: function templates, variadic templates, tuples, template specializations, type traits, if constexpr
+
+
+
 **Got 2 minutes?** Check out a video overview of our product:
 
 {% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
