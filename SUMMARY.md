@@ -2,6 +2,10 @@
 
 * [前言](README.md)
 
+## 模板
+
+* [必须使用模板类的情况](mo-ban/bi-xu-shi-yong-mo-ban-lei-de-qing-kuang.md)
+
 ## C++11
 
 * [Creating your first project](c++11/creating-your-first-project.md)
